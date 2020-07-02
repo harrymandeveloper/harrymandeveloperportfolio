@@ -2,31 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Recent Projects
 
 [Stay Alert-ish - DIY Coronavirus Stay Alert Poster Generator](/coronaposter/)
-<img src="images/coronacover.png"/>
+<img src="./images/coronacover.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Billboard Maker - A simple billboard design that queries an external api](/billboardmaker/)
+<img src="./images/billboardcover.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Coronavirus Home Workout Plan - Back-end - A simple one page app designed to offer a series of exercises that may be performed to keep fit at home while self-isolating. Features a custom API.](https://github.com/harrymandeveloper/workoutplan-backend)
+<img src="./images/workoutplancover.png"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
