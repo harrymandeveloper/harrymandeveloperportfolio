@@ -1,12 +1,12 @@
 title: Harry Man # your name (or website title) here
 logo: "./images/harrymandeveloper.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <b> Test description hello hello hello </b>
+  <b> A versatile, positive and creative JavaScript and PHP Developer with first rate communication and interpersonal skills. </b>
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/harry-man-developer/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/harry-man-developer/">LinkedIn</a>
+  <a href="https://www.twitter.com/harrymantweets">Twitter</a> 
+  <a href="https://www.instagram.com/harrymantweets">Instagram</a>
+
   
 theme: jekyll-theme-minimal
 google_analytics: UA-24021869-2 # your Google Analytics tracking ID here
