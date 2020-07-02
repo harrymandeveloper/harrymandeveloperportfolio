@@ -3,6 +3,7 @@ logo: "./images/harrymandeveloper.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b> A versatile, positive and creative JavaScript and PHP Developer with first rate communication and interpersonal skills. </b>
   <br><br>
+  <a href="https://github.com/harrymandeveloper">GitHub</a><br>
   <a href="https://www.linkedin.com/in/harry-man-developer/">LinkedIn</a><br>
   <a href="https://www.twitter.com/harrymantweets">Twitter</a><br> 
   <a href="https://www.instagram.com/harrymantweets">Instagram</a><br>
@@ -10,12 +11,3 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-minimal
 google_analytics: UA-24021869-2 # your Google Analytics tracking ID here
-
-
-# title: Harry Man # your name (or website title) here
-# logo: "/images/harrymandeveloper.jpg" # your photo (or logo) here
-# description: A versatile, positive and creative JavaScript and PHP Developer with first rate communication and interpersonal skills.   
-# <br>
-# <a href="https://www.linkedin.com/in/harry-man-developer/">View My LinkedIn Profile</a> 
-  
-# google_analytics: UA-24021869-2 # your Google Analytics tracking ID here
