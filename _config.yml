@@ -3,9 +3,9 @@ logo: "./images/harrymandeveloper.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b> A versatile, positive and creative JavaScript and PHP Developer with first rate communication and interpersonal skills. </b>
   <br><br>
-  <a href="https://www.linkedin.com/in/harry-man-developer/">LinkedIn</a>
-  <a href="https://www.twitter.com/harrymantweets">Twitter</a> 
-  <a href="https://www.instagram.com/harrymantweets">Instagram</a>
+  <a href="https://www.linkedin.com/in/harry-man-developer/">LinkedIn</a><br>
+  <a href="https://www.twitter.com/harrymantweets">Twitter</a><br> 
+  <a href="https://www.instagram.com/harrymantweets">Instagram</a><br>
 
   
 theme: jekyll-theme-minimal
