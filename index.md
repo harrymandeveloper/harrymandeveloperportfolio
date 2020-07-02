@@ -6,20 +6,18 @@
 
 ---
 
-<div align="center">
+### Stay Alert-ish
 
-### <center> Stay Alert-ish </center>
-
-<center>Make your own COVID-19 poster in the style of the UK Government's advice posters.</center>
+Make your own COVID-19 poster in the style of the UK Government's advice posters.
 
 <br>[
-[On GitHub](/coronaposter/) | [Live](https://harrymandeveloper.github.io/coronaposter/) ]<br><br
+[On GitHub](/coronaposter/) | [Live](https://harrymandeveloper.github.io/coronaposter/) ]<br><br>
 <img src="./images/coronacover.png"/>
 
 ---
-### <center> Billboard Maker </center> <br>
+###  Billboard Maker  <br>
 
-<center>A simple billboard design that queries an external API. <br></center>
+A simple billboard design that queries an external API. <br>
 
 <div align="center">
 
@@ -27,15 +25,14 @@
 <img src="./images/billboardcover.png"/>
 
 ---
-### <center> Coronavirus Home Workout Plan </center>
+###  Coronavirus Home Workout Plan 
 
-<div align="center">
+
 
 [ [On GitHub](https://github.com/harrymandeveloper/workoutplan-backend) | [Live](http://bit.ly/covidfitCVlink) ]
-<br> <center>A simple one page app designed to offer a series of exercises that may be performed to keep fit at home while self-isolating. Features a custom API.<br><br>
-<img src="./images/workoutplancover.png"/></center>
+<br> A simple one page app designed to offer a series of exercises that may be performed to keep fit at home while self-isolating. Features a custom API.<br><br>
+<img src="./images/workoutplancover.png"/>
 
-</div>
 ---
 
 
