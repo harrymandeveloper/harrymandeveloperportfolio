@@ -9,7 +9,7 @@
 ### Stay Alert-ish
 
 Make your own COVID-19 poster in the style of the UK Government's advice posters.
-<br>[
+<br><br>[
 [On GitHub](/coronaposter/) | [Live](https://harrymandeveloper.github.io/coronaposter/) ]<br><br>
 <img src="./images/coronacover.png"/>
 
