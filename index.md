@@ -7,18 +7,14 @@
 ---
 
 ### <center> Stay Alert-ish </center> <br> 
-<center> 
-[On GitHub](/coronaposter/) | [Live](https://harrymandeveloper.github.io/coronaposter/) 
-</center>
-<br> <center>DIY Coronavirus Stay Alert Poster Generator. Make your own COVID-19 poster in the style of the UK Government's advice posters.<br><br>
+
+<br> <center>DIY Coronavirus Stay Alert Poster Generator. Make your own COVID-19 poster in the style of the UK Government's advice posters. ![On GitHub](/coronaposter/) | ![Live](https://harrymandeveloper.github.io/coronaposter/) </center><br><br>
 <img src="./images/coronacover.png"/>
 
 ---
 ### <center> Billboard Maker </center> <br>
 
-<center>  
-[On GitHub](/billboardmaker/) | [Live](https://harrymandeveloper.github.io/billboardmaker/) </center>
-<br> <center>A simple billboard design that queries an external API.<br><br>
+<br> <center>A simple billboard design that queries an external API. \\ [On GitHub](/billboardmaker/) | [Live](https://harrymandeveloper.github.io/billboardmaker/) <br><br>
 <img src="./images/billboardcover.png"/>
 
 ---
