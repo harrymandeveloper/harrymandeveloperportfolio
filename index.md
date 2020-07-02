@@ -4,7 +4,7 @@
 
 ### Recent Projects
 
-[Stay Alert-ish - DIY Coronavirus Stay Alert Poster Generator](/coronaposter/)
+[Stay Alert-ish](/coronaposter/) - DIY Coronavirus Stay Alert Poster Generator
 <img src="./images/coronacover.png"/>
 
 ---
