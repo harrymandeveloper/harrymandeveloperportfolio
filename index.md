@@ -15,11 +15,11 @@ Make your own COVID-19 poster in the style of the UK Government's advice posters
 <img src="./images/coronacover.png"/>
 
 ---
+
 ###  Billboard Maker  <br>
 
 A simple billboard design that queries an external API. <br>
 
-<div align="center">
 
 [ [On GitHub](/billboardmaker/) | [Live](https://harrymandeveloper.github.io/billboardmaker/) ]<br><br>
 <img src="./images/billboardcover.png"/>
